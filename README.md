@@ -23,6 +23,7 @@ This application implements real-time object detection using a webcam feed with 
     npm install
     npm install react-webcam
     npm install @tensorflow-models/coco-ssd @tensorflow/tfjs
+    npm install lodash
 4. **Run the development server:**
    ```bash
     npm run dev
