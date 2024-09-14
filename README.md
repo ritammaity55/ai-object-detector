@@ -9,6 +9,8 @@ This application implements real-time object detection using a webcam feed with 
 - **Dynamic Overlays:** Displays bounding boxes and labels for detected objects directly on the video feed.
 - **Lightweight and Efficient:** Built with Next js 14,  Tailwind CSS and TensorFlow.js, ensuring a smooth and responsive experience in the browser.
 
+## Live Demo: [Click Here](https://ispyde.vercel.app/)
+
 ## Installation
 
 1. **Clone the repository:**
